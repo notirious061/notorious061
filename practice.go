@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello Misha")
-	fmt.Println("Hello Sasha")
-	fmt.Println("Hello Alina")
+	fmt.Println("c")
+	fmt.Println("b")
+	fmt.Println("a")
 }
